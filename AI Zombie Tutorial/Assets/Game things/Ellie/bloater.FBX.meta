@@ -1,0 +1,419 @@
+fileFormatVersion: 2
+guid: a3f8dee960770234c96a1105ea7ab220
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: mesh001_A
+    100004: mesh0_A
+    100006: submesh_008_A
+    100008: submesh_009
+    100010: submesh_010
+    100012: submesh_011
+    100014: submesh_015
+    100016: submesh_017
+    100018: submesh_019_A
+    100020: submesh_020_A
+    100022: submesh_021_A
+    100024: submesh_022
+    100026: submesh_023
+    100028: submesh_024_A
+    100030: submesh_025
+    100032: submesh_028
+    100034: submesh_033_A
+    100036: submesh_035_A
+    100038: submesh_036_A
+    100040: submesh_037
+    100042: submesh_038
+    100044: submesh_039_A
+    100046: submesh_040_A
+    100048: submesh_041_A
+    100050: submesh_042
+    100052: submesh_044
+    100054: submesh_046
+    100056: submesh_049
+    100058: submesh_050_A
+    100060: submesh_053
+    100062: submesh_054
+    100064: submesh_055_A
+    100066: submesh_056_A
+    100068: submesh_057_A
+    100070: submesh_058
+    100072: submesh_059
+    100074: submesh_060
+    100076: submesh_061_A
+    100078: submesh_062_A
+    100080: submesh_063_A
+    100082: submesh_064
+    100084: submesh_065
+    100086: submesh_070
+    100088: submesh_071
+    100090: submesh_072_A
+    100092: submesh_073
+    100094: submesh_074_A
+    100096: submesh_075
+    100098: submesh_076_A
+    100100: submesh_077_A
+    100102: submesh_082_A
+    100104: submesh_083_A
+    100106: submesh_084
+    400000: //RootNode
+    400002: mesh001_A
+    400004: mesh0_A
+    400006: submesh_008_A
+    400008: submesh_009
+    400010: submesh_010
+    400012: submesh_011
+    400014: submesh_015
+    400016: submesh_017
+    400018: submesh_019_A
+    400020: submesh_020_A
+    400022: submesh_021_A
+    400024: submesh_022
+    400026: submesh_023
+    400028: submesh_024_A
+    400030: submesh_025
+    400032: submesh_028
+    400034: submesh_033_A
+    400036: submesh_035_A
+    400038: submesh_036_A
+    400040: submesh_037
+    400042: submesh_038
+    400044: submesh_039_A
+    400046: submesh_040_A
+    400048: submesh_041_A
+    400050: submesh_042
+    400052: submesh_044
+    400054: submesh_046
+    400056: submesh_049
+    400058: submesh_050_A
+    400060: submesh_053
+    400062: submesh_054
+    400064: submesh_055_A
+    400066: submesh_056_A
+    400068: submesh_057_A
+    400070: submesh_058
+    400072: submesh_059
+    400074: submesh_060
+    400076: submesh_061_A
+    400078: submesh_062_A
+    400080: submesh_063_A
+    400082: submesh_064
+    400084: submesh_065
+    400086: submesh_070
+    400088: submesh_071
+    400090: submesh_072_A
+    400092: submesh_073
+    400094: submesh_074_A
+    400096: submesh_075
+    400098: submesh_076_A
+    400100: submesh_077_A
+    400102: submesh_082_A
+    400104: submesh_083_A
+    400106: submesh_084
+    2100000: default
+    2100002: 07 - Default
+    2100004: 09 - Default
+    2100006: 03 - Default
+    2100008: 02 - Default
+    2100010: 14 - Default
+    2300000: mesh001_A
+    2300002: mesh0_A
+    2300004: submesh_008_A
+    2300006: submesh_009
+    2300008: submesh_010
+    2300010: submesh_011
+    2300012: submesh_015
+    2300014: submesh_017
+    2300016: submesh_019_A
+    2300018: submesh_020_A
+    2300020: submesh_021_A
+    2300022: submesh_022
+    2300024: submesh_023
+    2300026: submesh_024_A
+    2300028: submesh_025
+    2300030: submesh_028
+    2300032: submesh_033_A
+    2300034: submesh_035_A
+    2300036: submesh_036_A
+    2300038: submesh_037
+    2300040: submesh_038
+    2300042: submesh_039_A
+    2300044: submesh_040_A
+    2300046: submesh_041_A
+    2300048: submesh_042
+    2300050: submesh_044
+    2300052: submesh_046
+    2300054: submesh_049
+    2300056: submesh_050_A
+    2300058: submesh_053
+    2300060: submesh_054
+    2300062: submesh_055_A
+    2300064: submesh_056_A
+    2300066: submesh_057_A
+    2300068: submesh_058
+    2300070: submesh_059
+    2300072: submesh_060
+    2300074: submesh_061_A
+    2300076: submesh_062_A
+    2300078: submesh_063_A
+    2300080: submesh_064
+    2300082: submesh_065
+    2300084: submesh_070
+    2300086: submesh_071
+    2300088: submesh_072_A
+    2300090: submesh_073
+    2300092: submesh_074_A
+    2300094: submesh_075
+    2300096: submesh_076_A
+    2300098: submesh_077_A
+    2300100: submesh_082_A
+    2300102: submesh_083_A
+    2300104: submesh_084
+    3300000: mesh001_A
+    3300002: mesh0_A
+    3300004: submesh_008_A
+    3300006: submesh_009
+    3300008: submesh_010
+    3300010: submesh_011
+    3300012: submesh_015
+    3300014: submesh_017
+    3300016: submesh_019_A
+    3300018: submesh_020_A
+    3300020: submesh_021_A
+    3300022: submesh_022
+    3300024: submesh_023
+    3300026: submesh_024_A
+    3300028: submesh_025
+    3300030: submesh_028
+    3300032: submesh_033_A
+    3300034: submesh_035_A
+    3300036: submesh_036_A
+    3300038: submesh_037
+    3300040: submesh_038
+    3300042: submesh_039_A
+    3300044: submesh_040_A
+    3300046: submesh_041_A
+    3300048: submesh_042
+    3300050: submesh_044
+    3300052: submesh_046
+    3300054: submesh_049
+    3300056: submesh_050_A
+    3300058: submesh_053
+    3300060: submesh_054
+    3300062: submesh_055_A
+    3300064: submesh_056_A
+    3300066: submesh_057_A
+    3300068: submesh_058
+    3300070: submesh_059
+    3300072: submesh_060
+    3300074: submesh_061_A
+    3300076: submesh_062_A
+    3300078: submesh_063_A
+    3300080: submesh_064
+    3300082: submesh_065
+    3300084: submesh_070
+    3300086: submesh_071
+    3300088: submesh_072_A
+    3300090: submesh_073
+    3300092: submesh_074_A
+    3300094: submesh_075
+    3300096: submesh_076_A
+    3300098: submesh_077_A
+    3300100: submesh_082_A
+    3300102: submesh_083_A
+    3300104: submesh_084
+    4300000: submesh_009
+    4300002: submesh_011
+    4300004: mesh0_A
+    4300006: mesh001_A
+    4300008: submesh_017
+    4300010: submesh_015
+    4300012: submesh_019_A
+    4300014: submesh_020_A
+    4300016: submesh_021_A
+    4300018: submesh_022
+    4300020: submesh_023
+    4300022: submesh_024_A
+    4300024: submesh_025
+    4300026: submesh_028
+    4300028: submesh_033_A
+    4300030: submesh_035_A
+    4300032: submesh_036_A
+    4300034: submesh_037
+    4300036: submesh_038
+    4300038: submesh_039_A
+    4300040: submesh_040_A
+    4300042: submesh_041_A
+    4300044: submesh_042
+    4300046: submesh_010
+    4300048: submesh_044
+    4300050: submesh_046
+    4300052: submesh_049
+    4300054: submesh_054
+    4300056: submesh_053
+    4300058: submesh_050_A
+    4300060: submesh_055_A
+    4300062: submesh_056_A
+    4300064: submesh_057_A
+    4300066: submesh_058
+    4300068: submesh_059
+    4300070: submesh_060
+    4300072: submesh_061_A
+    4300074: submesh_062_A
+    4300076: submesh_063_A
+    4300078: submesh_065
+    4300080: submesh_064
+    4300082: submesh_070
+    4300084: submesh_071
+    4300086: submesh_072_A
+    4300088: submesh_073
+    4300090: submesh_074_A
+    4300092: submesh_075
+    4300094: submesh_008_A
+    4300096: submesh_076_A
+    4300098: submesh_077_A
+    4300100: submesh_082_A
+    4300102: submesh_083_A
+    4300104: submesh_084
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 02 - Default
+    second: {fileID: 2100000, guid: 0bd2917fb8096fd4daa41dbeb7f7d6be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 03 - Default
+    second: {fileID: 2100000, guid: 0a62bd348b332404892fcb06fa729335, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 07 - Default
+    second: {fileID: 2100000, guid: 2f79aff27fe6851469febcc7a318bc58, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 09 - Default
+    second: {fileID: 2100000, guid: 2fc100669c8fb244c81b4410ae904492, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 14 - Default
+    second: {fileID: 2100000, guid: 04fed15b9368aed4cb2c9285ab148e08, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: default
+    second: {fileID: 2100000, guid: 46a6af865f8ba0e49b43ce64e1d3c2c6, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: blt-armor-a-new-color - DXT1
+    second: {fileID: 2800000, guid: be233abec6aa8ba4f9a6caa282be0bfb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: blt-head-a-color - DXT1
+    second: {fileID: 2800000, guid: e7d00b5ba00b8964598e2c58606efd96, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: blt-legs-a-color - DXT1
+    second: {fileID: 2800000, guid: 39a196e6e3dd2fd44ade5d73000e4633, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: blt-tendrils-a-color - DXT1
+    second: {fileID: 2800000, guid: 3d5dc2644bb448c439c7deba6d2daa1c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: blt-torso-a-underside-color - DXT1
+    second: {fileID: 2800000, guid: f959923995a774849b00b0585b2d71fb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: head-armor-a-color - DXT1
+    second: {fileID: 2800000, guid: 89cc22c265664f64881f06fd49226227, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
